@@ -2,7 +2,8 @@
 
 This is a web application built with React and Vite that allows users to upload, visualize, and compare data from CSV files.
 
-![App Screenshot](Screenshot 2025-08-27 100041.png)
+![App Screenshot](Screenshot%202025-08-27%20100041.png)
+![App Screenshot](Screenshot%202025-08-27%20100124.png)
 
 ## Live Demo
 
