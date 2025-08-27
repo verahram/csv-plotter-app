@@ -1,0 +1,5 @@
+
+{
+  "name": "Interactive CSV Comparison Plotter",
+  "description": "An interactive web application to upload, compare, and plot data from multiple CSV files with customizable axes and styling, built with React and Plotly.js."
+}
