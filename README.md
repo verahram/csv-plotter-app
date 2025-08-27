@@ -2,6 +2,8 @@
 
 This is a web application built with React and Vite that allows users to upload, visualize, and compare data from CSV files.
 
+![App Screenshot](app-screenshot.png)
+
 ## Live Demo
 
 🎉 **You can try out the live application here:** [(https://csv-ploter.netlify.app/)]
