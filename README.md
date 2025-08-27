@@ -32,8 +32,9 @@ npm install
 ```
 
 3. Running the Application
+   ```bash
    npm run dev
-
+   ```
    The application should now be running in your web browser, usually at http://localhost:5173.
 
 
